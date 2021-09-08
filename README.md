@@ -21,8 +21,10 @@
     <img height="20" src="https://qiita-badge.apiapi.app/s/l0x3el/contributions.svg" />
   </a>-->
 </p>
-  
-  
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=l0x3el&count_private=true&show_icons=true)](https://github.com/l0x3el/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l0x3el&count_private=true)](https://github.com/l0x3el/github-readme-stats)
+
 - 👋 Hi, I’m @l0x3el 
 - 👀 I’m interested in Azure PaaS
 - 🌱 I’m currently learning Vue！！I love Vue so much💞️
