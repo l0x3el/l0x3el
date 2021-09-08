@@ -13,6 +13,9 @@
 
 ![](https://img.shields.io/badge/Like-%20-blue)
 
+![Azure-new-logo](https://user-images.githubusercontent.com/43780179/132535615-9c1d7985-1002-43fe-8118-8200019b28e6.png)
+
+
 ![](https://img.shields.io/badge/Bages-%20-blue)
 
 [![microsoft-certified-devops-engineer-expert](https://user-images.githubusercontent.com/43780179/132524976-e05fb909-e015-43f7-8f0c-5cc08f1a9511.png)](https://www.credly.com/badges/7e1aa0c3-685c-4ca4-981d-679675a5e2dc/public_url)
