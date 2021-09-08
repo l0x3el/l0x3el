@@ -1,6 +1,6 @@
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=l0x3el&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=l0x3el&theme=github)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=l0x3el&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=l0x3el&theme=github)
