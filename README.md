@@ -12,7 +12,9 @@
 -->
 
 
-![](https://img.shields.io/badge/Like-%20-blue)
+<!-- ![](https://img.shields.io/badge/Like-%20-blue) -->
+
+### Like
 
 I am interest of Azure and Application and Infra.
 
