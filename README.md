@@ -9,7 +9,10 @@
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?quoteCategory=programming)
 
 :hibiscus: Badges
+
+![microsoft-certified-azure-developer-associate 1 (1)](https://user-images.githubusercontent.com/43780179/132524730-11cb576f-1614-4d1b-93f7-65bbb2c3b8c8.png)
 ![microsoft-certified-azure-developer-associate 1](https://user-images.githubusercontent.com/43780179/132524429-df003fd2-1d83-4d64-bed8-8658ab484827.png)
+
 
 
 [![LinkedIn](https://img.shields.io/badge/-l0x3el-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/l0x3el/)](https://www.linkedin.com/in/l0x3el/)
