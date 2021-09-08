@@ -17,10 +17,11 @@
   <a href="http://qiita.com/l0x3el">
     <img height="20" src="https://qiita-badge.apiapi.app/s/l0x3el/posts.svg" />
   </a>
-  <//qiita.com/l0x3el">
+  <a href="http://qiita.com/l0x3el">
     <img height="20" src="https://qiita-badge.apiapi.app/s/l0x3el/contributions.svg" />
   </a>
 </p>
+  
   
 - 👋 Hi, I’m @l0x3el 
 - 👀 I’m interested in Azure PaaS
