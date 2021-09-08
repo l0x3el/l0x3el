@@ -18,7 +18,6 @@
 
 [![microsoft-certified-azure-developer-associate 1](https://user-images.githubusercontent.com/43780179/132524429-df003fd2-1d83-4d64-bed8-8658ab484827.png) ](https://www.credly.com/badges/9452fadc-9ea5-448a-ae16-0178cccff500/public_url)
 [![microsoft-certified-azure-fundamentals](https://user-images.githubusercontent.com/43780179/132530086-6cc41d95-5a87-4455-8d39-b082deb7f079.png)](https://www.credly.com/badges/30104110-ea48-47d9-ab04-7130ae66c31e/public_url)
-
 [![openhack-containers](https://user-images.githubusercontent.com/43780179/132529688-d81de309-567d-40d0-83e4-da6e9d66d3c3.png)](https://www.credly.com/badges/947876ff-3385-4553-9183-b8f280578ba4/public_url)
 [![openhack-serverless](https://user-images.githubusercontent.com/43780179/132529548-f4e46580-6a70-4edd-ab91-0fab6350d687.png)](https://www.credly.com/badges/6240bcea-41fd-415c-983b-066d79e4ffa7/public_url)
 [![microsoft-certified-trainer-2020-2021](https://user-images.githubusercontent.com/43780179/132530205-9798f3a9-1cf4-4457-90b9-74f12198b4b8.png)](https://www.credly.com/badges/f8d92e7d-49fd-45e4-a4a5-fc779582e554/public_url)
