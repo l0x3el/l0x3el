@@ -13,7 +13,8 @@
 
 ![](https://img.shields.io/badge/Like-%20-blue)
 
-![Azure-new-logo](https://user-images.githubusercontent.com/43780179/132535615-9c1d7985-1002-43fe-8118-8200019b28e6.png)
+![Azure-new-logo - コピー](https://user-images.githubusercontent.com/43780179/132536678-d8318920-613c-4470-adab-4f93465aaa00.png)
+
 
 
 ![](https://img.shields.io/badge/Bages-%20-blue)
