@@ -1,7 +1,13 @@
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=l0x3el&show_icons=true&theme=github&count_private=true" alt="l0x3el" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=l0x3el&show_icons=true&layout=compact&theme=github&count_private=true" alt="l0x3el" />
-</>
+</p>
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=l0x3el&show_icons=true&layout=compact&theme=github&count_private=true" alt="l0x3el" />
+</p>
+
+<br>
+
 <!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=l0x3el&" alt="l0x3el" /> -->
 
 
