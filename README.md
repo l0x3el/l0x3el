@@ -17,7 +17,9 @@
 
 
 
+
 ![](https://img.shields.io/badge/Bages-%20-blue)
+![icons8-vue-js-60](https://user-images.githubusercontent.com/43780179/132537562-8b03f789-6b49-476d-b4d5-b89e1ebd4b7b.png)
 
 [![microsoft-certified-devops-engineer-expert](https://user-images.githubusercontent.com/43780179/132524976-e05fb909-e015-43f7-8f0c-5cc08f1a9511.png)](https://www.credly.com/badges/7e1aa0c3-685c-4ca4-981d-679675a5e2dc/public_url)
 [![microsoft-certified-azure-solutions-architect-expert-legacy](https://user-images.githubusercontent.com/43780179/132529967-0c8c8f78-6651-4212-9c7e-3a8665b33669.png)](https://www.credly.com/badges/634de248-3f5b-425d-be55-e992e21dedde/public_url)
