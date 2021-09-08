@@ -21,8 +21,8 @@
     <img height="20" src="https://qiita-badge.apiapi.app/s/l0x3el/contributions.svg" />
   </a>-->
 </p>
-
-![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=l0x3el&layout=compact))
+![l0x3el github stats](https://github-readme-stats.vercel.app/api?username=l0x3el)
+![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=l0x3el&layout=compact)
 
 - 👋 Hi, I’m @l0x3el 
 - 👀 I’m interested in Azure PaaS
