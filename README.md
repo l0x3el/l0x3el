@@ -14,14 +14,16 @@
 
 ![](https://img.shields.io/badge/Like-%20-blue)
 
+I am interest of Azure and Application and Infra.
+I love Vue and Container and Linux (RedHat,CentOS.Ubuntu) so much.
+
 ![Azure-new-logo - コピー](https://user-images.githubusercontent.com/43780179/132536678-d8318920-613c-4470-adab-4f93465aaa00.png)
 ![icons8-vue-js-60](https://user-images.githubusercontent.com/43780179/132537562-8b03f789-6b49-476d-b4d5-b89e1ebd4b7b.png)
 ![Moby-logo - コピー](https://user-images.githubusercontent.com/43780179/132541139-2b0f4568-c4a0-4de9-999d-d23f1747c36a.png)
 ![k8slogo](https://user-images.githubusercontent.com/43780179/132541799-6812d034-1ffb-40f3-8fce-5b1cfef12b69.png)
 
 
-I am interest of Azure and Application and Infra.
-I love Linux(RedHat,CentOS.Ubuntu)
+
 
 
 
