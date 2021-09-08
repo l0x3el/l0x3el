@@ -24,10 +24,14 @@
 <!--
 ![l0x3el github stats](https://github-readme-stats.vercel.app/api?username=l0x3el&count_private=true&show_icons=true&theme=graywhite)
 ![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=l0x3el&count_private=true&show_icons=true&theme=graywhite&langs_count=20&exclude_repo=octopress_jp,octopress_en,rcmdnk.github.io,en,octogray_test) -->
-
+<!--
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
+&nbsp;
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/)-->
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=l0x3el&theme=vue)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=l0x3el&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=l0x3el&theme=github)
 
 - 👋 Hi, I’m @l0x3el 
