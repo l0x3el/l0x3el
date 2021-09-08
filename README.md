@@ -28,6 +28,8 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=l0x3el&theme=vue)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=l0x3el&theme=github)
+
 - 👋 Hi, I’m @l0x3el 
 - 👀 I’m interested in Azure PaaS
 - 🌱 I’m currently learning Vue！！I love Vue so much💞️
