@@ -1,3 +1,7 @@
+[![LinkedIn](https://img.shields.io/badge/-l0x3el-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/l0x3el/)](https://www.linkedin.com/in/l0x3el/)]
+![GitHub followers](https://img.shields.io/github/followers/l0x3el?style=social)
+
+
 <p align="left"> 
   <a href="https://github.com/l0x3el/l0x3el/">
     <img src="https://komarev.com/ghpvc/?username=l0x3el" alt="l0x3el" />
@@ -35,7 +39,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=l0x3el&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=l0x3el&theme=github)
 
-[![LinkedIn](https://img.shields.io/badge/-l0x3el-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/l0x3el/)](https://www.linkedin.com/in/l0x3el/)]
+
 
 
 - 👋 Hi, I’m @l0x3el 
