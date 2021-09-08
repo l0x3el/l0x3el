@@ -19,6 +19,7 @@
 ![Moby-logo - コピー](https://user-images.githubusercontent.com/43780179/132541139-2b0f4568-c4a0-4de9-999d-d23f1747c36a.png)
 ![k8slogo](https://user-images.githubusercontent.com/43780179/132541799-6812d034-1ffb-40f3-8fce-5b1cfef12b69.png)
 
+I am interest of Azure and Application and Infra
 
 
 ![](https://img.shields.io/badge/Bages-%20-blue)
