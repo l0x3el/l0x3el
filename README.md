@@ -22,6 +22,7 @@
   </a>-->
 </p>
 <!--
+
 ![l0x3el github stats](https://github-readme-stats.vercel.app/api?username=l0x3el&count_private=true&show_icons=true&theme=graywhite)
 ![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=l0x3el&count_private=true&show_icons=true&theme=graywhite&langs_count=20&exclude_repo=octopress_jp,octopress_en,rcmdnk.github.io,en,octogray_test) -->
 <!--
@@ -33,6 +34,9 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=l0x3el&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=l0x3el&theme=github)
+
+[![LinkedIn](https://img.shields.io/badge/-l0x3el-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/l0x3el/)](https://www.linkedin.com/in/l0x3el/)]
+
 
 - 👋 Hi, I’m @l0x3el 
 - 👀 I’m interested in Azure PaaS
