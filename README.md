@@ -42,9 +42,9 @@ I love Vue and Container and Linux (RedHat,CentOS.Ubuntu) so much.
 [![microsoft-certified-trainer-2020-2021](https://user-images.githubusercontent.com/43780179/132530205-9798f3a9-1cf4-4457-90b9-74f12198b4b8.png)](https://www.credly.com/badges/f8d92e7d-49fd-45e4-a4a5-fc779582e554/public_url)
 
 
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/mikkame/posts.svg)](http://qiita.com/l0x3el)
-[![My Qiita contributions](https://qiita-badge.apiapi.app/s/mikkame/contributions.svg)](http://qiita.com/l0x3el)
-[![My Qiita followers](https://qiita-badge.apiapi.app/s/mikkame/followers.svg)](http://qiita.com/l0x3el)
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/l0x3el/posts.svg)](http://qiita.com/l0x3el)
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/l0x3el/contributions.svg)](http://qiita.com/l0x3el)
+[![My Qiita followers](https://qiita-badge.apiapi.app/s/l0x3el/followers.svg)](http://qiita.com/l0x3el)
 
 
 <!--![](https://img.shields.io/badge/How%20to%20reach%20me%20-%20-blue)-->
