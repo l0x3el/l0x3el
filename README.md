@@ -22,8 +22,8 @@
   </a>-->
 </p>
 
-![l0x3el github stats](https://github-readme-stats.vercel.app/api?username=l0x3el&count_private=true&show_icons=true)
-![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=l0x3el&layout=compact&count_private=true&show_icons=true)
+![l0x3el github stats](https://github-readme-stats.vercel.app/api?username=l0x3el&count_private=true&show_icons=true&theme=graywhite)
+![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=l0x3el&layout=compact&count_private=true&show_icons=true&theme=graywhite)
 
 - 👋 Hi, I’m @l0x3el 
 - 👀 I’m interested in Azure PaaS
